@@ -1,6 +1,9 @@
 # Educational-Data-Mining-Projects
---code
+
+# Code
+
+📌[Lab1]()
 
 
-
---video
+# Video
+📌[Lab1]()
