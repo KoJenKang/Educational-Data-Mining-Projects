@@ -2,7 +2,7 @@
 
 # Code
 
-📌[Lab1](lab1.py)
+📌[Lab1](https://github.com/KoJenKang/Educational-Data-Mining-Projects.git/code files/lab1.py)
 
 
 # Video
