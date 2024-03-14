@@ -6,4 +6,4 @@
 
 
 # Video
-📌[Lab1]()
+📌[Lab1](https://youtu.be/ChEn9uA-2tI)
