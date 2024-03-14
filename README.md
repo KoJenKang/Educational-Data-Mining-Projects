@@ -1,4 +1,4 @@
-# Educational-Data-Mining-Projects
+# Educational Data Mining Projects
 
 # Code
 
