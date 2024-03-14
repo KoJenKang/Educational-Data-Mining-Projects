@@ -2,7 +2,7 @@
 
 # Code
 
-📌[Lab1](master)
+📌[Lab1](lab1.py)
 
 
 # Video
