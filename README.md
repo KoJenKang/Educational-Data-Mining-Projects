@@ -2,7 +2,7 @@
 
 # Code
 
-📌[Lab1]()
+📌[Lab1](https://github.com/KoJenKang/Educational-Data-Mining-Projects.git)
 
 
 # Video
