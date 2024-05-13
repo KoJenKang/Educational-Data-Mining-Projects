@@ -7,7 +7,12 @@
 📌[Lab2-1](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/lab_2.ipynb)
 📌[Lab2-2](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/lab_2_2.ipynb)
 
-📌[Lab3-1](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/lab_2_2.ipynb)
+📌[Lab3-1](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/fine_tuned_data2.py)
+📌[Lab3-2](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/test.jsonl)
+📌[Lab3-3](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/train.jsonl)
+📌[Lab3-4](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/fine_tuned_llm.ipynb)
+
+
 
 
 
