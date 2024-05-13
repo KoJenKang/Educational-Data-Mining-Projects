@@ -1,11 +1,14 @@
 # Educational Data Mining Projects
 
-# Code
+# Code & files
 
 📌[Lab1](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/code-files/lab1.py)
 
 📌[Lab2-1](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/lab_2.ipynb)
 📌[Lab2-2](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/lab_2_2.ipynb)
+
+📌[Lab3-1](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/lab_2_2.ipynb)
+
 
 
 
