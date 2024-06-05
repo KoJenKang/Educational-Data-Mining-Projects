@@ -24,7 +24,7 @@
 
 
 # Final project 
-📌[project code Gemini version](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/LLM_Chinese_phi3(5_27).ipynb)
+📌[project code Gemini version](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/%E5%AE%8C%E6%95%B4%E6%A7%8B%E6%80%9D%E7%9A%84%E7%89%88%E6%9C%AC.ipynb)
 
 📌[project code Phi-3 mini version](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/LLM_Chinese_phi3.ipynb)
 
