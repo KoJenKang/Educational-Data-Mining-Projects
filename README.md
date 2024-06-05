@@ -21,3 +21,13 @@
 📌[Lab1](https://youtu.be/ChEn9uA-2tI)
 
 📌[Lab2](https://youtu.be/sGtzfZ6SkR4)
+
+
+#Final project 
+📌[project code version 1](https://youtu.be/sGtzfZ6SkR4)
+📌[project code version 2](https://youtu.be/sGtzfZ6SkR4)
+📌[project slide](https://youtu.be/sGtzfZ6SkR4)
+
+
+
+
