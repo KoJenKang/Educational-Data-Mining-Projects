@@ -24,7 +24,7 @@
 
 
 # Final project 
-📌[project code version 1](https://youtu.be/sGtzfZ6SkR4)
+📌[project code version 1](https://github.com/KoJenKang/Educational-Data-Mining-Projects/blob/main/LLM_Chinese_phi3(5_27).ipynb)
 📌[project code version 2](https://youtu.be/sGtzfZ6SkR4)
 📌[project slide](https://youtu.be/sGtzfZ6SkR4)
 
